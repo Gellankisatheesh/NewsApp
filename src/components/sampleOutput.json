@@ -1,0 +1,58 @@
+{
+"status": "ok",
+"totalResults": 36,
+"articles": [
+{
+"source": {
+"id": "the-washington-post",
+"name": "The Washington Post"
+},
+"author": "Sarah Dadouch",
+"title": "Libya floods destroy quarter of Derna city; death toll rises to 5300 - The Washington Post",
+"description": "Amid the soaring death toll there have been some positive signs that Libya’s warring rival governments have put aside their differences to deal with the crisis.",
+"url": "https://www.washingtonpost.com/world/2023/09/13/libya-flooding-death-toll-derna/",
+"urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C2MQ7FAAOVUFF7VL526MSF35D4_size-normalized.jpg&w=1440",
+"publishedAt": "2023-09-13T10:44:41Z",
+"content": "Comment on this story\r\nComment\r\nThe floods that ravaged eastern Libya destroyed a quarter of the coastal city of Derna and left bodies lying in the street, said an aid official Wednesday as the gover… [+6783 chars]"
+},
+{
+"source": {
+"id": null,
+"name": "CNBC"
+},
+"author": "Hayden Field, Rohan Goswami, Kif Leswing",
+"title": "Here's everything Apple announced at its 2023 event: iPhone 15 models, new Apple Watch, updated AirPods - CNBC",
+"description": "Apple announced the iPhone 15 with USB-C charging, as well as the newest Apple Watch and updated AirPods.",
+"url": "https://www.cnbc.com/2023/09/12/apple-event-2023-live-updates-iphone-15-new-apple-watch-9-expected.html",
+"urlToImage": "https://image.cnbcfm.com/api/v1/image/107299538-1694545659595-gettyimages-1660529148-0j7a2260.jpeg?v=1694546115&w=1920&h=1080",
+"publishedAt": "2023-09-13T09:54:00Z",
+"content": "Apple held its annual iPhone launch event Tuesday at Apple Park, the company's headquarters in Cupertino, California.\r\nThe company announced the iPhone 15 and iPhone 15 Plus, complete with USB-C char… [+561 chars]"
+},
+{
+"source": {
+"id": "associated-press",
+"name": "Associated Press"
+},
+"author": "WILL WEISSERT, JOEY CAPPELLETTI",
+"title": "Auto workers strike would test Biden's assertion he's the 'most pro-union president in US history' - The Associated Press",
+"description": "The prospect of an auto workers strike could test Joe Biden’s treasured assertion he’s the most pro-union president in U.S. history. A work stoppage against the Big Three U.S. automakers has the potential to reshape the political landscape in the battleground…",
+"url": "https://apnews.com/article/biden-uaw-strike-unions-trump-2024-826a9a74a73497a62943d26c31d455c3",
+"urlToImage": "https://dims.apnews.com/dims4/default/f2e2386/2147483647/strip/true/crop/2000x1125+0+105/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe3%2Ff5%2F6e398c4a5b011eb202dc4da36530%2Fc47b1f20703c44f288a11d4ddf2579e4",
+"publishedAt": "2023-09-13T09:30:00Z",
+"content": "LANSING, Mich. (AP) The prospect of an auto workers strike could test Joe Bidens treasured assertion that hes the most pro-union president in U.S. history. \r\nThe United Auto Workers is threatening to… [+7782 chars]"
+},
+{
+"source": {
+"id": "cnn",
+"name": "CNN"
+},
+"author": "Donald Judd",
+"title": "Biden focuses on his domestic agenda and efforts to end cancer amid McCarthy’s impeachment inquiry announcement - CNN",
+"description": "President Joe Biden will convene a meeting of his Cancer Cabinet on Wednesday, a White House official told CNN, in the latest attempt from the administration to refocus the national conversation around the president’s domestic agenda.",
+"url": "https://www.cnn.com/2023/09/13/politics/joe-biden-cancer-cabinet/index.html",
+"urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230910102033-04-joe-biden-vietnam-0910.jpg?c=16x9&q=w_800,c_fill",
+"publishedAt": "2023-09-13T09:01:00Z",
+"content": "President Joe Biden will convene a meeting of his Cancer Cabinet on Wednesday, a White House official told CNN, in the latest attempt from the administration to refocus the national conversation arou… [+3227 chars]"
+}
+]
+}
